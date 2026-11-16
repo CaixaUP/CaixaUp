@@ -310,4 +310,4 @@ O CaixaUp nasceu de uma base do [Hórus PDV](https://github.com/flaviooliveira-c
 
 Mantido por **Thalles**.
 
-- GitHub: <https://github.com/thalleseduardo1450-bot>
+- GitHub: <https://github.com/CaixaUP>
